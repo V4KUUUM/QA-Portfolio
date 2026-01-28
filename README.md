@@ -37,4 +37,4 @@
 * **Результат:** `500 Internal Server Error`.
 
 ## 📂 Полная документация
-👉 **[Читать полный отчет о тестировании (Google Docs)]([https://docs.google.com/document/d/1OVUXC59ViCrn2vyGO6I8j-Kt1-pbyXHlGgIFq3H3Uvc/edit?pli=1&tab=t.0](https://docs.google.com/document/d/1OVUXC59ViCrn2vyGO6I8j-Kt1-pbyXHlGgIFq3H3Uvc/edit?usp=sharing))**
+👉 **[Полный отчет о тестировании (Google Docs)](https://docs.google.com/document/d/1OVUXC59ViCrn2vyGO6I8j-Kt1-pbyXHlGgIFq3H3Uvc/edit?usp=sharing)**
